@@ -5,7 +5,8 @@ Basic Programming
 
 Day 1 :
     Print the followig patterns:
-    1. * * * *       
+      
+       * * * *       
        * * * *          
        * * * *         
        * * * *
